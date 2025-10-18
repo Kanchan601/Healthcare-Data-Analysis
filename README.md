@@ -6,37 +6,36 @@
 
 ## Objectives
 
-Build interactive dashboards in Excel, Power BI .
-Generate insights from healthcare KPIs such as patient count, doctor workload, follow-up rates, and treatment costs.
-Identify top diagnosed conditions, financial efficiency, and resource utilization trends.
-Demonstrate the power of data-driven healthcare management.
+- Build interactive dashboards in Excel, Power BI .
+- Generate insights from healthcare KPIs such as patient count, doctor workload, follow-up rates, and treatment costs.
+- Identify top diagnosed conditions, financial efficiency, and resource utilization trends.
+- Demonstrate the power of data-driven healthcare management.
 
 ## Key Insights
 
-Served 10,000 patients with 1,000 doctors, maintaining a balanced patient-to-doctor ratio.
-Identified Top 5 Diagnosed Conditions for targeted preventive care.
-Analyzed Follow-up Rates to improve continuity of care.
-Evaluated Average Treatment Costs and Total Collections to assess financial performance.
-Explored Abnormal Lab Results trends for proactive intervention.
+- Served 10,000 patients with 1,000 doctors, maintaining a balanced patient-to-doctor ratio.
+- Identified Top 5 Diagnosed Conditions for targeted preventive care.
+- Analyzed Follow-up Rates to improve continuity of care.
+- Evaluated Average Treatment Costs and Total Collections to assess financial performance.
+- Explored Abnormal Lab Results trends for proactive intervention.
 
 ## Tools & Technologies
 
-Excel → Basic dashboards & KPI tracking
-Power BI → Advanced visualization and interactive analytics
-Tableau → Data storytelling and cross-KPI analysis
-MySQL → Data extraction, transformation, and querying
+- Excel → Basic dashboards & KPI tracking
+- Power BI → Advanced visualization and interactive analytics
+- MySQL → Data extraction, transformation, and querying
 
 ## Deliverables
 
-Healthcare analytics dashboards (Excel, Power BI, Tableau)
-MySQL query scripts for analysis
-PPT summary of findings and insights
+- Healthcare analytics dashboards (Excel, Power BI)
+- MySQL query scripts for analysis
+- PPT summary of findings and insights
 
 ## Challenges & Solutions
-Challenge	Solution
-Data integration across multiple tables	Used Tableau relationships for seamless linking
-Import errors in semicolon-delimited CSV files	Converted delimiters for proper MySQL import
-Calculation errors in Power BI & Tableau	Debugged formulas and validated data types
+Challenge	                                                      Solution
+
+- Import errors in semicolon-delimited CSV files               	Converted delimiters for proper MySQL import
+- Calculation errors in Power BI &                              Debugged formulas and validated data types
 
 ## Outcome
 
