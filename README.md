@@ -1,8 +1,8 @@
 # Healthcare Data Analytics Dashboard
 ## Project Overview
 
-This project focuses on analyzing hospital and patient data to uncover meaningful insights that support better decision-making, resource optimization, and improved patient outcomes.
-Using tools like Excel, Power BI, Tableau, and MySQL, this analysis highlights key performance indicators (KPIs) across patients, doctors, visits, and financial metrics to create an end-to-end healthcare analytics solution.
+- This project focuses on analyzing hospital and patient data to uncover meaningful insights that support better decision-making, resource optimization, and improved patient outcomes.
+- Using tools like Excel, Power BI, Tableau, and MySQL, this analysis highlights key performance indicators (KPIs) across patients, doctors, visits, and financial metrics to create an end-to-end healthcare analytics solution.
 
 ## Objectives
 
