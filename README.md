@@ -32,10 +32,10 @@
 - PPT summary of findings and insights
 
 ## Challenges & Solutions
-Challenge	                                                      Solution
+- Challenge	                                                     - Solution
 
-- Import errors in semicolon-delimited CSV files               	Converted delimiters for proper MySQL import
-- Calculation errors in Power BI &                              Debugged formulas and validated data types
+- Import errors in semicolon-delimited CSV files               	- Converted delimiters for proper MySQL import
+- Calculation errors in Power BI &                              - Debugged formulas and validated data types
 
 ## Outcome
 
